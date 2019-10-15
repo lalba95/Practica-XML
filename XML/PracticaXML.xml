@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Aplicacionesweb>
+    <Aplicacion codi="001">
+        <nombre>Facebook</nombre>
+        <Descripcion> Red Social donde poder chatear con amigos y subir fotos</Descripcion>
+        <Tipo>Red Social</Tipo>
+        <Fabricante>mark zuckerberg</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="002">
+        <nombre>Youtube</nombre>
+        <Descripcion> Aplicacion donde poder subir contenido audiovisual o verlo</Descripcion>
+        <Tipo>Reproductor de video</Tipo>
+        <Fabricante>Jawed Karim, Steve Chen, Chad Hurley</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="003">
+        <nombre>Amazon</nombre>
+        <Descripcion> Aplicacion de venta de productos de todo tipo</descripcion>
+        <Tipo>Compras</Tipo>
+        <Fabricante>Jeff Bezos</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="004">
+        <nombre>Gmail</nombre>
+        <Descripcion> Aplicaion de correo electronico</descripcion>
+        <Tipo>Correo</Tipo>
+        <Fabricante>Paul Buchheit</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="005">
+        <nombre>Yahoo</nombre>
+        <Descripcion> buscador online y correo electronico</descripcion>
+        <Tipo>buscador y Correo</Tipo>
+        <Fabricante>Jerry Yang, David Filo</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="006">
+        <nombre>Twich</nombre>
+        <Descripcion> Plataforma de streaming</descripcion>
+        <Tipo>Reproductor en directo</Tipo>
+        <Fabricante>Justin Kan</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="007">
+        <nombre>Microsoft Word Online</nombre>
+        <Descripcion> Procesador de textos</descripcion>
+        <Tipo>Procesador de textos</Tipo>
+        <Fabricante>Microsoft</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="008">
+        <nombre>WhatsApp</nombre>
+        <Descripcion>Mensajeria online</descripcion>
+        <Tipo>Mensajeria online</Tipo>
+        <Fabricante>Facebook</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="009">
+        <nombre>Linkedln</nombre>
+        <Descripcion>Portal de trabajo Donde te permite tener tu perfil y ver empresas</descripcion>
+        <Tipo>Portal de trabajo</Tipo>
+        <Fabricante>Konstantin Guericke, Reid Hoffman, Eric Ly, Jean-Luc Vaillant, Allen Blue</Fabricante>
+    </Aplicacion>
+    <Aplicacion codi="010">
+        <nombre>Skype</nombre>
+        <Descripcion>Aplicacion de mensajeria y videollamadas</descripcion>
+        <Tipo>Red Social</Tipo>
+        <Fabricante>Priit Kasesalu, Jaan Tallinn, Ahti Heinla</Fabricante>
+    </Aplicacion>
+</Aplicacionesweb>
